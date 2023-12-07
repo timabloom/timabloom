@@ -5,7 +5,7 @@
 
 <h3>Career Overview</h3>
 
-- 🔭 I’m currently working on [Kalejdoskop API](https://github.com/timabloom/tarot-sanctuary)
+- 🔭 I’m currently working on [Tarot Sanctuary](https://github.com/timabloom/tarot-sanctuary)
 
 - 🌱 I’m currently learning **Svelte**
 
