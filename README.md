@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
-<h3>Career Overview</h3>
+<h3>Overview</h3>
 
 - 🔭 I’m currently working on [Tarot Sanctuary](https://github.com/timabloom/tarot-sanctuary)
 
