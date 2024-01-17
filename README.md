@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **timabloom@proton.me**
 
-- ⚡ Fun fact **I like Tarot**
+- ⚡ Fun fact **I like Cartomancy**
 
 <h3 align="left">Languages and Tools:</h3>
 
