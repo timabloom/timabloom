@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Tarot Sanctuary](https://github.com/timabloom/tarot-sanctuary)
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **timabloom@proton.me**
 
