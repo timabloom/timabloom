@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timabloom</h1>
-<h3 align="center">A passionate Fullstack-developer developer</h3>
+<h3 align="center">A passionate Fullstack-developer</h3>
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <h3>Overview</h3>
