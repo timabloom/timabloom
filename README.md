@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [Habit Replacer](https://habit-replacer-tracker.onrender.com/)
 
+- :briefcase: My portfolio [Portfolio]([https://habit-replacer-tracker.onrender.com/](https://timothy-magees-portfolio.onrender.com/))
+
 - 🌱 I’m currently learning **.NET**
 
 - ⚡ Fun fact **I like Cartomancy**
