@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Habit Replacer](https://habit-replacer-tracker.onrender.com/)
 
-- :briefcase: My [Portfolio]([https://habit-replacer-tracker.onrender.com/](https://timothy-magees-portfolio.onrender.com/))
+- :briefcase: My [Portfolio](https://timothy-magees-portfolio.onrender.com/)
 
 - 🌱 I’m currently learning **.NET**
 
